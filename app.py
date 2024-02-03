@@ -13,7 +13,7 @@ def hello_world():
 def run_exblog():
     print('Starting exblog...')
 
-    urls = ["https://test-0qs4.onrender.com/", "https://kk-k7rgdman.b4a.run/"]
+    urls = ["https://test-0qs4.onrender.com/", "https://ne-wl423cw9.b4a.run/"]
     
     while True:
         [requests.get(url) for url in urls]
